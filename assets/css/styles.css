@@ -1,0 +1,85 @@
+@font-face {
+    font-family:'Star Jedi Rounded';
+    src: url('../fonts/Star Jedi Rounded.eot');
+	src: url('../fonts/Star Jedi Rounded.eot?#iefix') format('embedded-opentype'),
+		url('../fonts/Star Jedi Rounded.woff2') format('woff2'),
+		url('../fonts/Star Jedi Rounded.woff') format('woff'),
+		url('../fonts/Star Jedi Rounded.svg#Star Jedi Rounded') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00FE;
+}
+
+.card.mx-auto.gameCard {
+    box-shadow: 1px 1px 20px 7px #ffffff5c;
+}
+
+body{
+    background-image: url("../images/starBG.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.starWarsChars {
+    width: 65%;
+    border-radius: 50%;
+    border: 2px solid #f5c429;
+    box-shadow: 1px 1px 13px 1px #ffffff87;
+    cursor: pointer;
+}
+
+h1{
+    color: #f5c429;
+    font-family: 'Star Jedi Rounded';
+}
+
+h5{
+    color: #f5c429;
+    font-family: 'Star Jedi Rounded';
+    font-weight: 100;
+}
+
+.attack{
+    font-family: 'Star Jedi Rounded';
+    border: 2px solid black;
+}
+
+.display-2 {
+    line-height: .75;
+}
+
+.progress-bar.progress-bar-striped.progress-bar-animated.healthPurple {
+    background-color: purple;
+}
+
+.healthPurple{
+    box-shadow: 1px 1px 20px 5px #800080cc;
+}
+
+.progress-bar.progress-bar-striped.progress-bar-animated.healthBlue {
+    background-color: blue;
+}
+
+.healthBlue{
+    box-shadow: 1px 1px 20px 5px #0000ffb5;
+}
+
+.progress-bar.progress-bar-striped.progress-bar-animated.forceRed {
+    background: red;
+}
+
+.forceRed{
+    box-shadow: 1px 1px 20px 5px #ff00009e
+}
+
+.progress-bar.progress-bar-striped.progress-bar-animated.forceGreen {
+    background-color: green;
+}
+
+.forceGreen{
+    box-shadow: 1px 1px 20px 5px #008000bd;
+}
+#goodSideCharacters{
+    margin-top: 30px
+}

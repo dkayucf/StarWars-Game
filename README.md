@@ -7,4 +7,4 @@ Coming Soon...
 
  
  
-![alt text](https://github.com/dkayucf/StarWars-Game/tree/master/assets/images/screenshot.png "StarWars")
+![alt text](https://github.com/dkayucf/StarWars-Game/blob/master/assets/images/screenshot.png?raw=true "StarWars")
